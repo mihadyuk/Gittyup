@@ -11,8 +11,3 @@ build
 .venv
 compile_commands.json
 
-gittyup.cflags
-gittyup.config
-gittyup.cxxflags
-gittyup.files
-gittyup.includes
