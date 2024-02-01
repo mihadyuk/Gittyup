@@ -1,0 +1,5 @@
+dep/git/git/compat/vcbuild/include
+dep/libgit2/libgit2/include
+dep/libssh2/libssh2/include
+dep/libssh2/libssh2/os400/include
+dep/scintilla/lexilla/include
