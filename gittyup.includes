@@ -3,3 +3,8 @@ dep/libgit2/libgit2/include
 dep/libssh2/libssh2/include
 dep/libssh2/libssh2/os400/include
 dep/scintilla/lexilla/include
+src
+/usr/include/qt/*
+/usr/include/qt/QtWidgets
+/usr/include/qt/QtCore
+
